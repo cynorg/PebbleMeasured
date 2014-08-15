@@ -1,0 +1,6 @@
+# Ignore build generated files
+build
+# other ignores used in the past
+.lock-waf*
+pebble-screenshot*
+.*.swp

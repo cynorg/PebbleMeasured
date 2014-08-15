@@ -1,0 +1,18 @@
+{
+  "uuid": "55f7744b-f586-45b8-854c-554f34489f40",
+  "shortName": "Measured",
+  "longName": "Measured 0.1",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 0,
+  "versionLabel": "0.1",
+  "watchapp": {
+    "watchface": false
+  },
+  "capabilities": [ "configurable" ],
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
