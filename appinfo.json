@@ -10,7 +10,11 @@
   },
   "capabilities": [ "configurable" ],
   "appKeys": {
-    "dummy": 0
+    "style_inv":     0,
+    "message_type":         99,
+    "timezone_offset":     103,
+    "send_watch_version":  104,
+    "send_config_version": 105
   },
   "resources": {
     "media": []
